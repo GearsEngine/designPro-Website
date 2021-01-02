@@ -37,10 +37,19 @@ export default (() => {
 				font="--headline1"
 				md-font="--headline2"
 				color="--dark"
-				max-width="850px"
+				width="1000px"
 			>
-				<Span font-weight="normal">
-					designPro. It's
+				<Span
+					font-weight="normal"
+					data-q-widget-type="PRIMITIVE"
+					overflow-wrap="normal"
+					word-break="normal"
+					white-space="normal"
+					text-indent="0"
+					text-overflow="clip"
+					hyphens="manual"
+				>
+					designPro. It's the graphic design tool for anyone, anywhere.
 				</Span>
 			</Text>
 		</Section>
